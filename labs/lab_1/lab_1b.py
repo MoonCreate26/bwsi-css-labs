@@ -58,7 +58,7 @@ def request_sanitized_operation(prompt: str):
         request_sanitized_operation(prompt)
 
 def main():
-    
+    #It's just a test 2
     print(f"===== Simple Calculator =====")
 
     # Ask the user for sample input    
